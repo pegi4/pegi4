@@ -1,4 +1,4 @@
-# Hi, I'm Vito 👋
+### Hi, I'm Vito 🚀
 
 💻 CS student from Slovenia  
 🛠️ Building across web, backend, AI & DevOps  
